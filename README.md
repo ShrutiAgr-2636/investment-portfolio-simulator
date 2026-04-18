@@ -14,7 +14,7 @@ This project demonstrates frontend development and financial data simulation usi
 
 After deployment using GitHub Pages, the project can be accessed here:
 
-
+https://shrutiagr-2636.github.io/investment-portfolio-simulator/
 
 ---
 
