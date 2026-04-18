@@ -1,2 +1,74 @@
-# investment-portfolio-simulator
-An investment portfolio simulator that works on the web and is responsive. It was made with HTML, CSS, and JavaScript. It has an interactive and easy-to-use interface that lets users keep track of their investments, calculate their return on investment (ROI) in real time, and see how their assets are spread out.
+Investment Portfolio Simulator
+Overview
+
+The Investment Portfolio Simulator is a web-based application that allows users to simulate stock investments and track their portfolio performance. Users can add investments, calculate profit or loss, visualize portfolio distribution, and analyze the overall portfolio risk.
+
+This project demonstrates frontend development and financial data simulation using JavaScript.
+
+Live Demo
+
+After deployment using GitHub Pages, the project can be accessed here:
+
+
+
+Features
+
+* Add stock investments
+* Automatic profit and loss calculation
+* Track total portfolio value
+* Delete investments
+* Portfolio distribution chart using Chart.js
+* Portfolio risk score calculation
+* Dark mode toggle
+* Data persistence using browser Local Storage
+* Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Chart.js for data visualization
+* Project Structure
+
+investment-portfolio-simulator
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+How to Run the Project Locally
+
+1. Clone the repository
+ 
+2. Open the project folder.
+
+3. Double click the file named index.html.
+
+4. The application will open in your web browser.
+
+Deployment
+
+This project can be deployed online using GitHub Pages.
+
+Steps:
+
+* Upload the project to a GitHub repository.
+* Open repository settings.
+* Navigate to the Pages section.
+* Select the main branch as the deployment source.
+* Save the settings and GitHub will generate a live website link.
+Author
+
+Shruti Agrawal
+
+BBA-Bachelor of Business Administration
+
+Birla Institute of Technology Mesra, Lalpur center , Ranchi
+
+Purpose of the Project
+
+This project was created to demonstrate:
+
+* JavaScript programming and logic building
+* Financial calculations and data handling
+* Data visualization using charts
+* Interactive user interface development
