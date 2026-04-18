@@ -57,7 +57,7 @@ investment-portfolio-simulator
 
 1. Clone the repository
 
-
+git clone https://github.com/ShrutiAgr-2636/investment-portfolio-simulator.git
 
 2. Open the project folder.
 
